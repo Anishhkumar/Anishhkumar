@@ -1,4 +1,4 @@
-![logo](https://github.com/Anishhkumar/Anishhkumar/blob/main/cse.jpg)
+![logo](https://github.com/Anishhkumar/Anishhkumar/blob/main/github banner.png)
 <h1 align="center">Hi 👋, I'm Anish Kumar</h1>
 <h3 align="center">A passionate Software Engineer developer from India</h3>
 
