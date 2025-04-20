@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anishhkumar&label=Profile%20views&color=0e75b6&style=flat" alt="anishhkumar" /> </p>
 
 - 📫 How to reach me **anishkumar11172@gmail.com**
-- - 📄 My Resume: [CLICK HERE](https://drive.google.com/file/d/1s3ReAQQguK5otrLAqRtc6Ctr_6_5CSyt/view)
+- - 📄 My Resume: [CLICK HERE](https://drive.google.com/file/d/10qr-pKPw8-w0dnNeovZ2FANuJmrBS8p4/view?usp=sharing)
 
 
 - ⚡ Fun fact **I'm Funny😊😊**
